@@ -1,0 +1,1 @@
+Starting C programming. Eledumare, Ori mi, Eyin Egbe mi join hands together to guide and let me see this to success. Git me adequate energy, grit, and knowledge. I must see this through to triumph. Ase!
