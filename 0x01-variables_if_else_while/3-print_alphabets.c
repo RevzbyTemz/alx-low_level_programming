@@ -21,7 +21,7 @@ for (lower_case = 'a'; lower_case <= 'z'; lower_case--)
 putchar(lower_case);
 }
 
-putchar("\n");
+putchar('\n');
 
-return (10);
+return (0);
 }
