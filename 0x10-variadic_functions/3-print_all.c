@@ -19,6 +19,7 @@ j = 0;
 while (t_arg[j])
 {
 if (format[i] == t_arg[j] && c)
+{
 printf(", ");
 break;
 } j++;
